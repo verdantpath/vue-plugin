@@ -5,5 +5,5 @@ Vue.use(VueMathPlugin);
 
 new Vue({
   el: '#app',
-  data: { item: 49 }
+  data: { item: 144 }
 });
